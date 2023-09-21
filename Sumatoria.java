@@ -5,6 +5,7 @@ public class Sumatoria {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Ingrese el valor del limite inferior:");
             int lim_inf = scanner.nextInt();
+            
 
             System.out.println("Ingrese el valor del limite superior:");
             int lim_sup = scanner.nextInt();
